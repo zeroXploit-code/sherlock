@@ -1,4 +1,4 @@
-# 🕵️‍♂️ SHERLOCK-TERMUX (v2.0)
+# 🕵️‍♂️ SHERLOCK-TERMUX (v0.1 BETA)
 <p align="center">
   <img src="https://img.shields.io/badge/Developed%20By-zeroXploit-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-Python%20%26%20Node.js-green?style=for-the-badge">
